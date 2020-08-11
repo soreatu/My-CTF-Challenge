@@ -1,0 +1,1 @@
+flag = b"WMCTF{Dont_ever_tell_anybody_anything___If_you_do__you_start_missing_everybody}"

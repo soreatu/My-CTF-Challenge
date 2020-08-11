@@ -1,0 +1,1 @@
+flag = 'NCTF{Br34k3_L1n34r_C0gru3nc3_G3n3r4t0r}'
