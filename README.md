@@ -26,6 +26,7 @@ May this repo be of some help to you 🙃
 | [Sum](WMCTF-2020/Sum) | WMCTF 2020 | medium | solving a 180-n subset-sum problem via BKZ | \ | [link](https://blog.soreatu.com/posts/intended-solution-to-crypto-problems-in-wmctf-2020/#sum) |
 | [babySum](WMCTF-2020/babySum) | WMCTF 2020 | easy | solving a 120-n subset-sum problem via BKZ | \ | [link](https://blog.soreatu.com/posts/intended-solution-to-crypto-problems-in-wmctf-2020/#babysum) |
 | [Game](WMCTF-2020/Game) | WMCTF 2020 | easy | the BEAST attack | [*The Catcher in the Rye*](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) | [link](https://blog.soreatu.com/posts/intended-solution-to-crypto-problems-in-wmctf-2020/#game) |
+| [babyProof](N1CTF-2020/babyProof) | N1CTF 2020 | Easy | gain knowledge by solving HNP | \ | [link](N1CTF-2020/babyProof/writeup.md) |
 
 
 
