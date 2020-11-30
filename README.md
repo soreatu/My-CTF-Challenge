@@ -28,8 +28,8 @@ May this repo be of some help to you 🙃
 | [Game](WMCTF-2020/Game) | WMCTF 2020 | easy | the BEAST attack | [*The Catcher in the Rye*](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) | [link](https://blog.soreatu.com/posts/intended-solution-to-crypto-problems-in-wmctf-2020/#game) |
 | [babyProof](N1CTF-2020/babyProof) | N1CTF 2020 | easy | gain knowledge by solving HNP | \ | [link](N1CTF-2020/babyProof/writeup.md) |
 | [RRSA](NCTF-2020/RRSA) | NCTF 2020 | easy | Common Modulus Attack | [The Legend of 1900](https://en.wikipedia.org/wiki/The_Legend_of_1900) | [link](https://ctf.njupt.edu.cn/562.html#RRSA) |
-| [RRRSA](NCTF2020/RRRSA) | NCTF 2020 | medium | Common Modulus Attack Plus | [Gone with the wind](https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)) | [link](https://ctf.njupt.edu.cn/562.html#RRRSA) |
-| [Oracle](NCTF2020/oracle) | NCTF 2020 | easy | Mini Bleichenbacher Attack | \ | [link](https://ctf.njupt.edu.cn/562.html#Oracle) |
+| [RRRSA](NCTF-2020/RRRSA) | NCTF 2020 | medium | Common Modulus Attack Plus | [Gone with the wind](https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)) | [link](https://ctf.njupt.edu.cn/562.html#RRRSA) |
+| [Oracle](NCTF-2020/oracle) | NCTF 2020 | easy | Mini Bleichenbacher Attack | \ | [link](https://ctf.njupt.edu.cn/562.html#Oracle) |
 
 
 
