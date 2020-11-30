@@ -1,0 +1,1 @@
+flag = b"NCTF{M4rry_1n_hast3__4nd_r3pen7_4t_le1sure}"

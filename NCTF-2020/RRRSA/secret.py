@@ -1,0 +1,1 @@
+FLAG = b"NCTF{Aft3r_411__t0morr0w_1s_an0ther_d4y}"
