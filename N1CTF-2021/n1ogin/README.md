@@ -6,7 +6,7 @@ It's known that AES-CBC encryption is short of integrity protection, which resul
 
 First, let's have a look at the program control flow:
 
-![A87E24F3-EBF9-41EB-A91F-13A5F4DD5877](https://soreatu-1300077947.cos.ap-nanjing.myqcloud.com/uPic/A87E24F3-EBF9-41EB-A91F-13A5F4DD5877.png "program control flow (fragment)")
+![A87E24F3-EBF9-41EB-A91F-13A5F4DD5877](https://s3.soreatu.com/uPic/A87E24F3-EBF9-41EB-A91F-13A5F4DD5877.png "program control flow (fragment)")
 
 Following the AES decryption is the step to check padding. If the plaintext does not conform to the PKCS7 padding scheme, the program will print `"Error!"` and return immediately, skipping the HMAC check below. If the padding check is passed, it will do the next HMAC check. 
 

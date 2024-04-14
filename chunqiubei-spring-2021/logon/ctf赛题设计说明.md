@@ -46,7 +46,7 @@ docker run --name crypto-logon -d -p 9999:9999 crypto-logon
 
 2. 登陆协议如下图所示：
 
-   ![image-20210510115112358](https://soreatu-1300077947.cos.ap-nanjing.myqcloud.com/uPic/image-20210510115112358.png)
+   ![image-20210510115112358](https://s3.soreatu.com/uPic/image-20210510115112358.png)
 
    client先给server发送一个client challenge并提供登录的用户名，随后server检查用户名是否已注册，若已注册则返回一个server challenge。
 
@@ -58,11 +58,11 @@ docker run --name crypto-logon -d -p 9999:9999 crypto-logon
 
    AES-CFB8模式加密过程如下图所示：
 
-   ![image-20210510115816143](https://soreatu-1300077947.cos.ap-nanjing.myqcloud.com/uPic/image-20210510115816143.png)
+   ![image-20210510115816143](https://s3.soreatu.com/uPic/image-20210510115816143.png)
 
    该模式存在一个弊端：若IV全0且后面8字节的明文也都是0的话，那么密文有1/256的概率也全都是0
 
-   ![image-20210510115917059](https://soreatu-1300077947.cos.ap-nanjing.myqcloud.com/uPic/image-20210510115917059.png)
+   ![image-20210510115917059](https://s3.soreatu.com/uPic/image-20210510115917059.png)
 
 4. 利用AES-CFB8模式的漏洞，可以发送client challenge全为0，username为Administrator，且client credential全为0，有1/256的概率可以通过check，getflag。
 
